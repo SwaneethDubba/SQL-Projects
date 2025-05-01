@@ -1,0 +1,51 @@
+Transaction_ID,Date,Department,Expense_Category,Amount_USD,Currency,Approved_By,Vendor,Payment_Status
+T0001,2025-02-27,Marketing,Supplies,2913.44,USD,Bradley Bryan,"Barker, Shea and Whitehead",Rejected
+T0002,2024-08-21,Finance,Training,2297.97,USD,Lori Schneider,"Schroeder, Tucker and Hodges",Rejected
+T0003,2025-03-20,Operations,Software,3770.05,USD,Mark Ayala,Tucker-Payne,Rejected
+T0004,2025-04-15,Finance,Consulting,2063.34,USD,Erika Williams,Fernandez LLC,Paid
+T0005,2025-03-27,HR,Supplies,491.06,USD,Donna Davis,Gallegos-Hoffman,Pending
+T0006,2024-07-28,Operations,Software,4719.98,USD,Sandra Smith,Garza PLC,Pending
+T0007,2025-02-03,Operations,Software,4179.84,USD,Tracy Gibson,Watson-Perez,Paid
+T0008,2024-11-21,Sales,Training,441.16,USD,Elaine James,Hanson Ltd,Pending
+T0009,2024-10-09,Operations,Supplies,162.83,USD,Joseph Smith,Johnson and Sons,Rejected
+T0010,2024-12-24,Marketing,Software,4775.89,USD,Julie Strong,Hobbs-Callahan,Pending
+T0011,2024-06-20,HR,Supplies,1688.48,USD,Kimberly Flores,"Dunn, Jenkins and Guerrero",Paid
+T0012,2024-10-30,Operations,Training,4314.77,USD,Michael Baker,Garcia-Mullins,Paid
+T0013,2025-02-26,Operations,Training,4775.07,USD,Geoffrey Russo,Blanchard Ltd,Pending
+T0014,2024-09-30,Marketing,Software,2800.14,USD,Shannon Elliott,Kelly and Sons,Pending
+T0015,2024-09-04,HR,Software,3315.89,USD,Dawn Becker,"Cruz, Bridges and Silva",Pending
+T0016,2024-12-16,HR,Training,918.07,USD,Antonio Reese,Mcgrath-Sweeney,Paid
+T0017,2024-07-03,Sales,Software,553.16,USD,Frank Harris,Mclaughlin and Sons,Rejected
+T0018,2025-03-28,Marketing,Software,239.51,USD,Nicole Shepherd,Garner Ltd,Rejected
+T0019,2024-10-02,Finance,Supplies,2013.64,USD,Julie Miller,Mitchell Inc,Pending
+T0020,2024-05-25,Sales,Training,2812.81,USD,Jorge Stevenson,White-Delgado,Pending
+T0021,2025-02-02,Finance,Training,2757.23,USD,Jeffery Norton,Norton-Young,Pending
+T0022,2025-04-18,Marketing,Consulting,1799.31,USD,Julie Wilson,Cline Inc,Pending
+T0023,2024-10-14,HR,Training,452.67,USD,Clifford Rivers,"Bray, Robinson and Wilkerson",Pending
+T0024,2025-02-15,Marketing,Supplies,3603.17,USD,Elizabeth Sanders,"Hart, Myers and Cunningham",Pending
+T0025,2024-08-30,Marketing,Supplies,4969.07,USD,Alicia Marsh,Burns and Sons,Rejected
+T0026,2025-04-01,Finance,Consulting,677.43,USD,Joseph Mills,Ballard Ltd,Paid
+T0027,2024-12-07,HR,Travel,1665.54,USD,Kathleen Larson,Green PLC,Rejected
+T0028,2024-12-02,Marketing,Training,3132.81,USD,Michelle Brewer,Juarez-Hubbard,Pending
+T0029,2024-07-04,Sales,Supplies,2789.25,USD,James Mckenzie,"Hicks, Mack and Gonzales",Pending
+T0030,2024-11-16,Sales,Travel,3011.88,USD,Alicia Wilson,Daniels-Vega,Pending
+T0031,2024-09-28,Operations,Supplies,151.85,USD,Justin Guzman,Webster-Harrison,Rejected
+T0032,2024-09-15,Marketing,Training,612.05,USD,Michele Lawson,Medina-Tanner,Paid
+T0033,2024-08-19,Finance,Supplies,2439.04,USD,Dalton Thomas,"King, Wilson and Harris",Rejected
+T0034,2024-12-26,Marketing,Travel,903.69,USD,Cindy Palmer,Sharp-Bennett,Pending
+T0035,2024-10-15,Finance,Software,2673.71,USD,Ronald Mcfarland,Bowen-Santos,Paid
+T0036,2024-11-01,Finance,Software,695.81,USD,Jennifer Cabrera,Tran Group,Pending
+T0037,2024-12-01,Marketing,Software,4196.48,USD,Frederick Park,Aguirre-Pollard,Pending
+T0038,2024-08-23,Sales,Travel,4429.94,USD,Nicole Norris,Paul-Barnes,Pending
+T0039,2024-08-19,Sales,Travel,2346.65,USD,Christopher Coleman,"Lewis, Chang and Hodges",Pending
+T0040,2024-10-10,Operations,Consulting,4830.22,USD,Nicole Bell,Garrett-Knight,Paid
+T0041,2024-10-28,HR,Software,2587.25,USD,Mitchell Johnson,Gardner PLC,Paid
+T0042,2024-10-29,Finance,Supplies,3793.86,USD,Megan Knight,Yoder-Jones,Paid
+T0043,2025-04-02,Marketing,Supplies,283.33,USD,Sean Mccall,Logan LLC,Rejected
+T0044,2024-09-16,Sales,Supplies,3368.3,USD,Anna Fritz,Cook Ltd,Paid
+T0045,2024-12-08,Sales,Software,3159.69,USD,Jill Washington,"Perez, Brown and Ray",Paid
+T0046,2025-01-28,Sales,Consulting,270.39,USD,Alejandra Gomez,Cooper-Li,Rejected
+T0047,2024-07-24,Marketing,Training,2165.38,USD,Timothy Sanchez,"Johnson, Morse and Hawkins",Pending
+T0048,2024-06-27,Sales,Training,2086.68,USD,Joshua Klein,"Sanders, Hood and Crosby",Pending
+T0049,2025-02-23,Finance,Travel,2294.93,USD,Anthony Williams,"Munoz, Reese and Lopez",Rejected
+T0050,2025-01-12,Marketing,Supplies,1943.95,USD,Antonio Watts,"Wilson, Larsen and Holland",Paid
