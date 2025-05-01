@@ -1,0 +1,8 @@
+use_Fin_data;
+--- To read Data ---
+SELECT * FROM Findata;
+
+---1. Total amount spent by the Finance department?---
+SELECT SUM(Amount_USD)
+FROM Finance_Department_Data
+WHERE Department = 'Finance';
